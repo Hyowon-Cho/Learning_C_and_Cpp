@@ -19,3 +19,5 @@ int main() {
 // %g : Real Output (also output in exponential form)
 // %c : Character output (alphabet, number, some symbols)
 // %s : String Output
+
+
