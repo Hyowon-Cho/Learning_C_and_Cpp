@@ -1,13 +1,6 @@
-#include <iostream>
+#include <stdio.h>
 
 int main() {
-  
-// %d : Interger Output
-// %f  : Float Output
-// %g : Real Output (also output in exponential form)
-// %c : Character output (alphabet, number, some symbols)
-// %s : String Output
-
   printf("%d + %d = %d\n", 2, 3, 5);
   
   printf("%f\n", 3.14);
@@ -20,3 +13,9 @@ int main() {
   printf("%s\n", "Hello");
 
 }
+
+// %d : Interger Output
+// %f  : Float Output
+// %g : Real Output (also output in exponential form)
+// %c : Character output (alphabet, number, some symbols)
+// %s : String Output
