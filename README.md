@@ -5,7 +5,8 @@
 
 <img src="https://engineering.fb.com/wp-content/uploads/2015/06/1522635669452_11.jpg" width="864" height="494">
 
+# Introduction
 
-“A light-weight abstraction programming language” 
+* It is a programming language that has a subset of C languages and supports multiple paradigms such as object-oriented and generalized programming. I will write down my C/C++ study notes in this repository since now.
 
-It is a programming language that has a subset of C languages and supports multiple paradigms such as object-oriented and generalized programming. I will write down my C/C++ study notes in this repository since now.
+* “A light-weight abstraction programming language” 
