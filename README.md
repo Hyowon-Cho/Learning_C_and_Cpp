@@ -11,4 +11,4 @@
 
 * “A light-weight abstraction programming language” 
 
-* 위 파일은 C/C++ 강의를 공부하면서 노트해둔 
+* 위 파일은 C/C++ 강의를 공부하면서 노트해둔 메모장입니다.
