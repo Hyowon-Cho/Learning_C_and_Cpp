@@ -9,4 +9,4 @@ int main() {
 
 }
 
-// I have learned how to declare the codes
+// I have learned how to declare the code
