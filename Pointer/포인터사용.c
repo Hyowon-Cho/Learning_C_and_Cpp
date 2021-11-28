@@ -13,3 +13,6 @@ int main()
 
 	return 0;
 }
+//
+
+https://edu.goorm.io/learn/lecture/201/%ED%95%9C-%EB%88%88%EC%97%90-%EB%81%9D%EB%82%B4%EB%8A%94-c%EC%96%B8%EC%96%B4-%EA%B8%B0%EC%B4%88/lesson/1268168/%EB%B0%98%EB%B3%B5%EB%AC%B8-do-while
