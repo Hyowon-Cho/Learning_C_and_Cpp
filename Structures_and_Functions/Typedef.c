@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main(void) {
-  typedef int typedef_Mode; // int 다음 int에 대한 별명 붙여주기
+  typedef int typedef_Mode; // typedef 와 typedef_Mode  == int 중요!!
   typedef_Mode n = 20;
   printf("%d\n",n);
   printf("%d\n", sizeof(typedef_Mode));
